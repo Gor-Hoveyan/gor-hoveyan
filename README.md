@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Gor-Hoveyan&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Gor-Hoveyan?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/Gor-Hoveyan?style=flat-square)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](([https://www.linkedin.com/in/gorhoveyan/](https://www.linkedin.com/in/gorhoveyan/)))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gorhoveyan/)
 
 ## 🚀 About Me
 I'm a passionate **Web Developer** currently pursuing my Bachelor's in **Computer Engineering** at Gavar State University. At 20 years old, I'm in my **third year** of studies and am eager to learn, grow, and take on new challenges.
@@ -41,5 +41,5 @@ I love solving real-world problems, and I'm always looking for **interesting and
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-Hoveyan&layout=compact)
 
 ## 📫 Let's Connect!
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)]([https://t.me/gorhoveyan])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/gorhoveyan/](https://www.linkedin.com/in/gorhoveyan/)))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/gorhoveyan)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gorhoveyan/)
