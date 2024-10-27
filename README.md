@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gor
+# 👋 Hey, I'm Gor
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gor-Hoveyan&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Gor-Hoveyan?style=flat-square)
