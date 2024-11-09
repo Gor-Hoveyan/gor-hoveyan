@@ -11,7 +11,6 @@ I'm a passionate **Web Developer** specializing in building **Websites** and **W
 
 🔹 I’m inspired by solving complex problems and contributing to projects with real-world impact.
 
----
 
 ## 💻 Technologies & Tools
 
