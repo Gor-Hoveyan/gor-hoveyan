@@ -5,9 +5,13 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Gor-Hoveyan?style=flat-square)
 
 ## 🚀 About Me
-I'm a passionate **Web Developer** currently pursuing my Bachelor's in **Computer Engineering** at Gavar State University. At 20 years old, I'm in my **third year** of studies and am eager to learn, grow, and take on new challenges.
+I'm a passionate **Web Developer** specializing in building **Websites** and **Web Applications** that leeds to success of overall product.
 
-My goal is to create fast, scalable, and user-friendly web applications, always striving for clean, efficient code and seamless user experiences. I enjoy tackling complex problems and contributing to meaningful projects.
+🔹 My focus is on creating fast, scalable, and user-friendly web applications, with a strong emphasis on clean, efficient code and seamless user experiences.  
+
+🔹 I’m inspired by solving complex problems and contributing to projects with real-world impact.
+
+---
 
 ## 💻 Technologies & Tools
 
@@ -34,4 +38,4 @@ I love solving real-world problems, and I'm always looking for **interesting and
 
 ---
 
-> 💡 "Always up for a new challenge and ready to learn something new every day!"
+> 💡 Always up for a new challenge and ready to learn something new every day!
