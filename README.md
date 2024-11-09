@@ -35,6 +35,6 @@ I love solving real-world problems, and I'm always looking for **interesting and
 [![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)](https://t.me/gorhoveyan)
 [![LinkedIn Badge](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/gorhoveyan/)
 
----
+
 
 > 💡 Always up for a new challenge and ready to learn something new every day!
