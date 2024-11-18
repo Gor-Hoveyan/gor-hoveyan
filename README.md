@@ -13,16 +13,12 @@ I'm a passionate **Web Developer** specializing in building **Websites** and **W
 
 
 ## 💻 Technologies & Tools
-<br>
-<div align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts)
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb)
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,vscode,visualstudio)
-
-</div>
 
 
 ## 🌟 What I Do
@@ -35,8 +31,6 @@ I'm a passionate **Web Developer** specializing in building **Websites** and **W
 I love solving real-world problems, and I'm always looking for **interesting and useful projects** that challenge me to grow further.
 
 ## 📊 GitHub Stats
-
-<div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor-Hoveyan&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gor-Hoveyan&theme=radical)
@@ -44,7 +38,7 @@ I love solving real-world problems, and I'm always looking for **interesting and
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gor-Hoveyan&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gor-Hoveyan&theme=radical&utcOffset=8)
 
-</div>
+<br>
 
 ## 📫 Let's Connect!
 [![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)](https://t.me/gorhoveyan)
