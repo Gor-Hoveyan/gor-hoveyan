@@ -13,12 +13,20 @@ I'm a passionate **Web Developer** specializing in building **Websites** and **W
 
 
 ## 💻 Technologies & Tools
+<br>
+<div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts)
+
+![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb)
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,vscode,visualstudio)
 
+</div>
+
+
 ## 🌟 What I Do
+
 - Create **dynamic** and **effective web applications** using **React.js**
 - Build **scalable** and **SEO-optimized** applications with **Next.js**
 - Develop **efficient APIs** with **Node.js** and **Express.js**
@@ -28,13 +36,19 @@ I love solving real-world problems, and I'm always looking for **interesting and
 
 ## 📊 GitHub Stats
 
-![Gor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gor-Hoveyan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-Hoveyan&layout=compact&theme=radical)
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gor-Hoveyan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gor-Hoveyan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gor-Hoveyan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gor-Hoveyan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gor-Hoveyan&theme=radical&utcOffset=8)
+
+</div>
 
 ## 📫 Let's Connect!
 [![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram)](https://t.me/gorhoveyan)
 [![LinkedIn Badge](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/gorhoveyan/)
-
 
 
 > 💡 Always up for a new challenge and ready to learn something new every day!
