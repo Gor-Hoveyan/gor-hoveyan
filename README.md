@@ -46,7 +46,6 @@ I love solving real-world problems, and I'm always looking for **interesting and
 
 
 > 💡 Always up for a new challenge and ready to learn something new every day!
-
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
